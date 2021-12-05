@@ -1,0 +1,2 @@
+# 1 laboratorinis darbas
+Įdiegti atviro kodo virtualią mašiną (VirtualBox). Toje pačioje virtualioje mašinoje įdiegti atviro kodo operacinę sistemą (Linux). Įdiegti atviro kodo operacinėje sistemoje atviro kodo dokumentų redagavimo programa (LibreOffice). Sukurkite išsamią ataskaitą apie atliktą darbą (su paveiksliukais, ką ir kaip derinote). Ataskaitą paruoškite taikant atviro kodo dokumentų redagavimo programą. Ataskaitoje būtinai nurodykite panaudotų programinių įrankių licencijų tipus (MIT, GPL...).
